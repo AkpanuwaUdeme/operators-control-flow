@@ -1,3 +1,12 @@
+List the symbols for each of the below Javascript operators
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Bitwise Operators
+For each JavaScript Operator, write 2 examples.
+
+Answers:
 Arithmetic Operators:
 Addition: + 
 Subtraction: - 
@@ -29,5 +38,6 @@ Bitwise NOT: ~
 Left shift: << (e.g. 5 << 1 returns 10)
 Right shift: >> (e.g. 5 >> 1 returns 2)
 
-4. 1 8 15 is the answer i got after calling node index.js
-# operators-control-flow
+Question 4 code logged is in index.js file
+answer:
+ 1 8 15 is the answer i got after calling node index.js

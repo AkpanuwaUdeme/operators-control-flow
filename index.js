@@ -1,9 +1,10 @@
+//Question 4 answer gotten from console is in the readme.md file
 for (let i = 1; i < 20; i +=7) {
     console.log(i)
 }
 
 
-
+//Question 3
 let classGroup = ("Enter Bolatito's class group: ");
 
 if (classGroup === "Science") {
@@ -16,8 +17,12 @@ if (classGroup === "Science") {
   console.log("General Subjects: English, Mathematics");
 }
 
-
-let num = parseInt(("Enter a positive number: "));
-let pwr = Math.pow(2, Math.round(Math.log2(num)));
+//Question 5
+let num = parseInt(("60: "));
+let pwr = Math.pow(2, Math.round(Math.log2(32)));
 
 console.log(`The number ${pwr} is the power of 2 nearest to ${num}.`);
+
+
+
+
